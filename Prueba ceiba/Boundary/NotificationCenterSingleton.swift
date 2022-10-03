@@ -1,9 +1,8 @@
 //
 //  NotificationCenterData.swift
-//  Spotify
+//  Prueba ceiba
 //
-//  Created by Marlon Alfonso Beltran Sanchez on 20/08/20.
-//  Copyright © 2020 Pragma. All rights reserved.
+//  Created by Marlon Beltran on 27/09/22
 //
 
 import Foundation
